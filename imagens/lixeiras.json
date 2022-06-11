@@ -1,0 +1,20 @@
+{"frames" : 
+    {
+        "lixeira1.png":
+            {
+                "frame":        {"x":0, "y":0, "largura":64, "altura":64}
+            },
+        "lixeira2.png":
+            {
+                "frame":        {"x":64, "y":0, "largura":64, "altura":64}
+            },
+        "lixeira3.png":
+            {
+                "frame":        {"x":128, "y":0, "largura":64, "altura":64}
+            },
+        "lixeira4.png":
+            {
+                "frame":        {"x":192, "y":0, "largura":64, "altura":64}
+            }
+    } 
+}

@@ -1,0 +1,103 @@
+{"frames" : 
+    {
+        "pBaixo1.png":
+            {
+                "frame":        {"x":1, "y":1, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pBaixo2.png":
+            {
+                "frame":        {"x":64, "y":0, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pBaixo3.png":
+            {
+                "frame":        {"x":128, "y":0, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pBaixo4.png":
+            {
+                "frame":        {"x":192, "y":0, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+            
+        "pEsquerda1.png":
+            {
+                "frame":        {"x":1, "y":64, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pEsquerda2.png":
+            {
+                "frame":        {"x":64, "y":64, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pEsquerda3.png":
+            {
+                "frame":        {"x":128, "y":64, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pEsquerda4.png":
+            {
+                "frame":        {"x":192, "y":64, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },      
+            
+        "pDireita1.png":
+            {
+                "frame":        {"x":1, "y":128, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pDireita2.png":
+            {
+                "frame":        {"x":64, "y":128, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pDireita3.png":
+            {
+                "frame":        {"x":128, "y":128, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pDireita4.png":
+            {
+                "frame":        {"x":192, "y":128, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+            
+        "pCima1.png":
+            {
+                "frame":        {"x":1, "y":192, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pCima2.png":
+            {
+                "frame":        {"x":64, "y":192, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pCima3.png":
+            {
+                "frame":        {"x":128, "y":192, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            },
+        "pCima4.png":
+            {
+                "frame":        {"x":192, "y":192, "largura":64, "altura":64},
+                "spriteSize":   {"x":0, "y":0, "largura":64, "altura":64},
+                "imageSize":    {"largura":64, "altura":64}
+            }          
+    } 
+}
